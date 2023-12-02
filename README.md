@@ -1,7 +1,9 @@
 ## RuSteam-Fullstack-project
 Описание:
 Магазин приложений/игр с развитой системой отзывов. Backend написан командой из 3х разработчиков, Frontend - ElizavetaBelskya.
+
 Trello проекта: https://trello.com/b/Vg0JiV5u/rusteam
+
 Ссылка на презентацию проекта: https://www.youtube.com/watch?v=VG4gu75IElc
 
 ### Основной функционал:
@@ -21,6 +23,7 @@ Trello проекта: https://trello.com/b/Vg0JiV5u/rusteam
   
 ### Бэкенд проекта: 
 https://github.com/ElizavetaBelskya/RuSteam-Backend
+
 Стек:
 - Java 17
 - Spring Boot 
@@ -34,6 +37,7 @@ https://github.com/ElizavetaBelskya/RuSteam-Backend
   
 ### Фронтенд проекта: 
 https://github.com/ElizavetaBelskya/RuSteam-Frontend
+
 Стек:
 - HTML/CSS/JavaScript
 - Vue 2, Vue 3
