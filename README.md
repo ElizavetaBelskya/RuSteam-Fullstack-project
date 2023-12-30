@@ -1,13 +1,12 @@
 ## RuSteam-Fullstack-project
 Описание:
-Магазин приложений/игр. Backend написан командой из 3х разработчиков, Frontend - ElizavetaBelskya.
+Магазин приложений/игр. 
 
-Trello проекта: https://trello.com/b/Vg0JiV5u/rusteam
+Backend написан командой из 3х разработчиков, https://github.com/ElizavetaBelskya/RuSteam-Backend
 
-Ссылка на полную презентацию проекта: https://www.youtube.com/watch?v=VG4gu75IElc
+Frontend - ElizavetaBelskya. https://github.com/ElizavetaBelskya/RuSteam-Frontend
 
 Краткий обзор фронтенда:
-
 
 https://github.com/ElizavetaBelskya/RuSteam-Fullstack-project/assets/90205133/b9771612-a4b7-4521-b73a-5a9366b0bcfb
 
@@ -45,3 +44,8 @@ https://github.com/ElizavetaBelskya/RuSteam-Frontend
 - Vuex
 - Axios, Fetch API
 - UI-фреймворки Vuetify, Bootstrap
+
+Trello проекта: https://trello.com/b/Vg0JiV5u/rusteam
+
+Ссылка на полную презентацию проекта: https://www.youtube.com/watch?v=VG4gu75IElc
+
